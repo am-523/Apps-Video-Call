@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Srawung Video Call
+</name>
+</assembly>
+<members>
+<member name="T:Srawung_Video_Call.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.available_updates_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.chat_bubble_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.chat_bubble_450px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.end_call_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.full_screen_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.home_page_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.home_page_450px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.laptop_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.laptop_450px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.microphone_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.online_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.paper_plane_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.phone_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.phone_450px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.refresh_450px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Screenshot_697">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Screenshot_698">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Screenshot_699">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Screenshot_700">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Screenshot_701">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Screenshot_702">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.Screenshot_703">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.settings_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.settings_450px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.user_account_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.user_account_450px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.video_call_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.zoom_in_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Srawung_Video_Call.My.Resources.Resources.zoom_out_450px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
